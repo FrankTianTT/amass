@@ -21,10 +21,8 @@ We show how to use the body data from AMASS to animate these models.
 
 ## Installation
 **Requirements**
-- Python 3.7
-- [PyTorch 1.7.1](https://pytorch.org/get-started)
-- [Human Body Prior](https://github.com/nghorbani/human_body_prior)
-- [Pyrender](https://pyrender.readthedocs.io/en/latest/install/index.html#osmesa) for visualizations
+- Python 3.8
+- PyTorch
 
 Clone this repo and run the following from the root folder:
 ```bash
